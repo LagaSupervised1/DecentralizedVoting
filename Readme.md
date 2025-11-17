@@ -291,18 +291,6 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ---
 
-## Security
-
-If you discover a security vulnerability, please email security@decentralizedvoting.com. Do not open a public issue.
-
----
-
-## Support & Contact
-
-- **Documentation**: [docs.decentralizedvoting.com](https://docs.decentralizedvoting.com)
-- **Discord Community**: [discord.gg/decentralizedvoting](https://discord.gg/decentralizedvoting)
-- **Twitter**: [@DecentralVoting](https://twitter.com/DecentralVoting)
-- **Email**: support@decentralizedvoting.com
 
 ---
 
@@ -317,3 +305,10 @@ If you discover a security vulnerability, please email security@decentralizedvot
 **Built with ❤️ for transparent democracy and fair elections**
 
 *"Making every vote count, one block at a time"*
+
+
+Contract address : 0xd9145CCE52D386f254917e481eB44e9943F39138
+
+Screenshot : <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ce509d5-7a60-4551-8271-03f2cd8b6f51" />
+
+
